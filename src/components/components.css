@@ -1,0 +1,61 @@
+.listColumn{
+    margin: 10px;
+    padding-left: 0px;
+    display: inline-block;
+}
+.dropdownStyle .css-2o5izw {
+  margin: 10px;
+  padding: 7px;
+  width: 376px;
+}
+.dropdownStyle .css-vj8t7z{
+  margin: 10px;
+  padding: 7px;
+  width: 376px;
+  border-radius: 5px;
+  color: gray;
+  background-color: rgb(174, 252, 248);
+}
+.dropdownStyle .css-1wy0on6{
+  display: none;
+}
+.dropdownStyle .css-15k3avv{
+  margin: 10px;
+  width: 376px;
+}
+
+
+.dropdownStyle .css-162g8z5{
+  margin: 10px;
+  padding: 7px;
+  width: 376px;
+}
+
+
+.textContainer {
+  display: inline-block;
+  width: 330px;
+}
+.textStyle {
+  margin: 5px;
+}
+.containerStyleExist {
+  padding: 12px 10px;
+  margin: 10px;
+  border-color: lightseagreen;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 5px;
+  background-color: rgb(70, 255, 245);
+}
+.crossIconStyle {
+  background: transparent;
+  height: 20px;
+  width: 20px;
+  font-size: 10px;
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 1.5px;
+  border-color: black;
+  font-weight: bold;
+}
